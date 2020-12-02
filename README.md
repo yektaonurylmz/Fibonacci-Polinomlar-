@@ -1,1 +1,1 @@
-# Fibonacci-Polinomlar-
+# Fibonacci polynomials
